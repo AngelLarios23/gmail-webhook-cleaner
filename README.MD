@@ -22,8 +22,7 @@ uvicorn backend.app:app --reload
 http://localhost:8000
 
 ## SEGURIDAD
-
-# token.json
-# credentials.json
-# __pycache__/
-# .env (AUN NO LO USO)
+    token.json
+    credentials.json
+    __pycache__/
+    .env (AUN NO LO USO)
